@@ -1,100 +1,88 @@
-[
-	{
-		"AdiSoyadi": "Gianluigi Donnarumma",
-		"Mevkisi": "Kaleci",
-		"FormaNumarasi": "#50",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/01_Donnarumma_kapak.png?token=GHSAT0AAAAAABQVSTSWSXS5GJ33WIW3TFNMYPF63DQ",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/01_Donnarumma.png?token=GHSAT0AAAAAABQVSTSW4QIKNC3KSYTOS22OYPF5MUA",
-		"Aciklama": "İtalyan uyruklu 22 yaşındaki Donnarumma, kaleci olarak görev yapmakadır. 2021 yılında Milan'dan bedelsiz bir şekilde PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 13 maça çıkmıştır.",
-	},
-
-	{
-		"AdiSoyadi": "Sergio Ramos",
-		"Mevkisi": "Stoper",
-		"FormaNumarasi": "#4",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/02_Ramos_kapak.png?token=GHSAT0AAAAAABQVSTSXY7PI6TLOAOSPRBLEYPF63MQ",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/02_Ramos.png?token=GHSAT0AAAAAABQVSTSXRIXCIPEKFR7CRRQGYPF5MVQ",
-		"Aciklama": "İspanya uyruklu 35 yaşındaki Ramos, stoper olarak görev yapmakadır. 2021 yılında Real Madrid'den bedelsiz bir şekilde PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 4 maça çıkmıştır.",
-	},
-
-	{
-		"AdiSoyadi": "Marquinhos",
-		"Mevkisi": "Stoper",
-		"FormaNumarasi": "#5",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/03_Marquinhos_kapak.png?token=GHSAT0AAAAAABQVSTSXANO3CFDYZ5BFXUW4YPF63NQ",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/03_Marquinhos.png?token=GHSAT0AAAAAABQVSTSXDJY5QCQXKGNI3S5EYPF5MWQ",
-		"Aciklama": "Brezilya uyruklu 27 yaşındaki Marquinhos, stoper olarak görev yapmakadır. 2013 yılında Roma'dan 31.4M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 345 maça çıkmıştır.",
-	},
-
-	{
-		"AdiSoyadi": "Achraf Hakimi",
-		"Mevkisi": "Sağ Bek",
-		"FormaNumarasi": "#2",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/04_Hakimi_kapak.png?token=GHSAT0AAAAAABQVSTSWPD5YTJ7TQ24FLAPUYPF63OQ",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/04_Hakimi.png?token=GHSAT0AAAAAABQVSTSW45YKUAIBWF4P3KGKYPF5MYA",
-		"Aciklama": "Fas uyruklu 23 yaşındaki Hakimi, sağ bek olarak görev yapmakadır. 2021 yılında İnter'den 60M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 25 maça çıkmıştır.",
-	},
-
-	{
-		"AdiSoyadi": "Nuno Mendes",
-		"Mevkisi": "Sol Bek",
-		"FormaNumarasi": "#25",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/05_Mendes_kapak.png?token=GHSAT0AAAAAABQVSTSXIJHNDLLDK2SAVIYGYPF63PQ",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/05_Mendes.png?token=GHSAT0AAAAAABQVSTSW337B2YP4TN3MY5CUYPF5MZA",
-		"Aciklama": "Portekiz uyruklu 19 yaşındaki Mendes, sol bek olarak görev yapmakadır. 2021 yılında Sporting'den satın alma opsiyonlu PSG'ye kiralık olarak transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 19 maça çıkmıştır.",
-	},
-
-	{
-		"AdiSoyadi": "Danilo Pereira",
-		"Mevkisi": "Önlibero",
-		"FormaNumarasi": "#15",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/06_Danilo_kapak.png?token=GHSAT0AAAAAABQVSTSWCMIXCE2DH5V5BC2SYPF63QQ",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/06_Danilo.png?token=GHSAT0AAAAAABQVSTSXEG2QTDOX2TBUF522YPF5M2Q",
-		"Aciklama": "Portekiz uyruklu 30 yaşındaki Pereira, önlibero olarak görev yapmakadır. 2021 yılında Porto'dan 16M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması toplamda 62 maça çıkmıştır.",
-	},
-
-	{
-		"AdiSoyadi": "Marco Verratti",
-		"Mevkisi": "Orta Saha",
-		"FormaNumarasi": "#6",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/07_Verratti_kapak.png?token=GHSAT0AAAAAABQVSTSW4XSZBSQ6X44NB2PCYPF63RQ",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/07_Verratti.png?token=GHSAT0AAAAAABQVSTSX6JBGIKUHYZRDPMEMYPF5M3A",
-		"Aciklama": "İtalya uyruklu 29 yaşındaki Verratti, orta saha olarak görev yapmakadır. 2012 yılında Pescara'dan 12M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması toplamda 362 maça çıkmıştır.",
-	},
-
-	{
-		"AdiSoyadi": "Georginio Wijnaldum",
-		"Mevkisi": "Orta Saha",
-		"FormaNumarasi": "#18",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/08_Wijnaldum_kapak.png?token=GHSAT0AAAAAABQVSTSXXSEVV75OLVHSUFPIYPF63SA",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/08_Wijnaldum.png?token=GHSAT0AAAAAABQVSTSXL6534WVKSL54MWQAYPF5M4A",
-		"Aciklama": "Hollanda uyruklu 31 yaşındaki Wijnaldum, orta saha olarak görev yapmakadır. 2021 yılında Liverpool'dan bedelsiz bir şekilde PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 25 maça çıkmıştır.",
-	},
-
-	{
-		"AdiSoyadi": "Lionel Messi",
-		"Mevkisi": "Sağ Kanat",
-		"FormaNumarasi": "#30",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/09_Goat_kapak.png?token=GHSAT0AAAAAABQVSTSWONQEQAIXOYL2M2IGYPF63TQ",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/09_Goat.png?token=GHSAT0AAAAAABQVSTSXU6KNKCR6SII4ROV4YPF5M5A",
-		"Aciklama": "Arjantin uyruklu 34 yaşındaki Messi, sağ kanat olarak görev yapmakadır. 2021 yılında Barcelona'dan bedelsiz bir şekilde PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 16 maça çıkmıştır.",
-	},
-
-	{
-		"AdiSoyadi": "Neymar",
-		"Mevkisi": "Sol Kanat",
-		"FormaNumarasi": "#10",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/10_Neymar_kapak.png?token=GHSAT0AAAAAABQVSTSWKEORCPVPEGYGHR44YPF63UA",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/10_Neymar.png?token=GHSAT0AAAAAABQVSTSWOMPA5Z3AMEXZGCHGYPF5M6A",
-		"Aciklama": "Brezilya uyruklu 29 yaşındaki Neymar, sol kanat olarak görev yapmakadır. 2017 yılında Barcelona'dan 222M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması toplamda 130 maça çıkmıştır.",
-	},
-
-	{
-		"AdiSoyadi": "Kylian Mbappe",
-		"Mevkisi": "Santrafor",
-		"FormaNumarasi": "#7",
-		"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/11_Mbappe_kapak.png?token=GHSAT0AAAAAABQVSTSWHYJFT4FHBQBO4EZ2YPF63VA",
-		"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/11_Mbappe.png?token=GHSAT0AAAAAABQVSTSWJIV57ZOAIXEJ7FVAYPF5M7A",
-		"Aciklama": "Fransa uyruklu 23 yaşındaki Mbappe, santrafor olarak görev yapmakadır. 2018 yılında Monaco'dan 145M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması toplamda 198 maça çıkmıştır.",
-	}
-]
+{
+"AdiSoyadi": "Gianluigi Donnarumma",
+"Mevkisi": "Kaleci",
+"FormaNumarasi": "#50",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/01_Donnarumma_kapak.png?token=GHSAT0AAAAAABQVSTSWSXS5GJ33WIW3TFNMYPF63DQ",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/01_Donnarumma.png?token=GHSAT0AAAAAABQVSTSW4QIKNC3KSYTOS22OYPF5MUA",
+"Aciklama": "İtalyan uyruklu 22 yaşındaki Donnarumma, kaleci olarak görev yapmakadır. 2021 yılında Milan'dan bedelsiz bir şekilde PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 13 maça çıkmıştır."
+},
+{
+"AdiSoyadi": "Sergio Ramos",
+"Mevkisi": "Stoper",
+"FormaNumarasi": "#4",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/02_Ramos_kapak.png?token=GHSAT0AAAAAABQVSTSXY7PI6TLOAOSPRBLEYPF63MQ",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/02_Ramos.png?token=GHSAT0AAAAAABQVSTSXRIXCIPEKFR7CRRQGYPF5MVQ",
+"Aciklama": "İspanya uyruklu 35 yaşındaki Ramos, stoper olarak görev yapmakadır. 2021 yılında Real Madrid'den bedelsiz bir şekilde PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 4 maça çıkmıştır."
+},
+{
+"AdiSoyadi": "Marquinhos",
+"Mevkisi": "Stoper",
+"FormaNumarasi": "#5",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/03_Marquinhos_kapak.png?token=GHSAT0AAAAAABQVSTSXANO3CFDYZ5BFXUW4YPF63NQ",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/03_Marquinhos.png?token=GHSAT0AAAAAABQVSTSXDJY5QCQXKGNI3S5EYPF5MWQ",
+"Aciklama": "Brezilya uyruklu 27 yaşındaki Marquinhos, stoper olarak görev yapmakadır. 2013 yılında Roma'dan 31.4M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 345 maça çıkmıştır."
+},
+{
+"AdiSoyadi": "Achraf Hakimi",
+"Mevkisi": "Sağ Bek",
+"FormaNumarasi": "#2",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/04_Hakimi_kapak.png?token=GHSAT0AAAAAABQVSTSWPD5YTJ7TQ24FLAPUYPF63OQ",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/04_Hakimi.png?token=GHSAT0AAAAAABQVSTSW45YKUAIBWF4P3KGKYPF5MYA",
+"Aciklama": "Fas uyruklu 23 yaşındaki Hakimi, sağ bek olarak görev yapmakadır. 2021 yılında İnter'den 60M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 25 maça çıkmıştır."
+},
+{
+"AdiSoyadi": "Nuno Mendes",
+"Mevkisi": "Sol Bek",
+"FormaNumarasi": "#25",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/05_Mendes_kapak.png?token=GHSAT0AAAAAABQVSTSXIJHNDLLDK2SAVIYGYPF63PQ",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/05_Mendes.png?token=GHSAT0AAAAAABQVSTSW337B2YP4TN3MY5CUYPF5MZA",
+"Aciklama": "Portekiz uyruklu 19 yaşındaki Mendes, sol bek olarak görev yapmakadır. 2021 yılında Sporting'den satın alma opsiyonlu PSG'ye kiralık olarak transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 19 maça çıkmıştır."
+},
+{
+"AdiSoyadi": "Danilo Pereira",
+"Mevkisi": "Önlibero",
+"FormaNumarasi": "#15",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/06_Danilo_kapak.png?token=GHSAT0AAAAAABQVSTSWCMIXCE2DH5V5BC2SYPF63QQ",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/06_Danilo.png?token=GHSAT0AAAAAABQVSTSXEG2QTDOX2TBUF522YPF5M2Q",
+"Aciklama": "Portekiz uyruklu 30 yaşındaki Pereira, önlibero olarak görev yapmakadır. 2021 yılında Porto'dan 16M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması toplamda 62 maça çıkmıştır."
+},
+{
+"AdiSoyadi": "Marco Verratti",
+"Mevkisi": "Orta Saha",
+"FormaNumarasi": "#6",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/07_Verratti_kapak.png?token=GHSAT0AAAAAABQVSTSW4XSZBSQ6X44NB2PCYPF63RQ",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/07_Verratti.png?token=GHSAT0AAAAAABQVSTSX6JBGIKUHYZRDPMEMYPF5M3A",
+"Aciklama": "İtalya uyruklu 29 yaşındaki Verratti, orta saha olarak görev yapmakadır. 2012 yılında Pescara'dan 12M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması toplamda 362 maça çıkmıştır."
+},
+{
+"AdiSoyadi": "Georginio Wijnaldum",
+"Mevkisi": "Orta Saha",
+"FormaNumarasi": "#18",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/08_Wijnaldum_kapak.png?token=GHSAT0AAAAAABQVSTSXXSEVV75OLVHSUFPIYPF63SA",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/08_Wijnaldum.png?token=GHSAT0AAAAAABQVSTSXL6534WVKSL54MWQAYPF5M4A",
+"Aciklama": "Hollanda uyruklu 31 yaşındaki Wijnaldum, orta saha olarak görev yapmakadır. 2021 yılında Liverpool'dan bedelsiz bir şekilde PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 25 maça çıkmıştır."
+},
+{
+"AdiSoyadi": "Lionel Messi",
+"Mevkisi": "Sağ Kanat",
+"FormaNumarasi": "#30",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/09_Goat_kapak.png?token=GHSAT0AAAAAABQVSTSWONQEQAIXOYL2M2IGYPF63TQ",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/09_Goat.png?token=GHSAT0AAAAAABQVSTSXU6KNKCR6SII4ROV4YPF5M5A",
+"Aciklama": "Arjantin uyruklu 34 yaşındaki Messi, sağ kanat olarak görev yapmakadır. 2021 yılında Barcelona'dan bedelsiz bir şekilde PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması ile toplamda 16 maça çıkmıştır."
+},
+{
+"AdiSoyadi": "Neymar",
+"Mevkisi": "Sol Kanat",
+"FormaNumarasi": "#10",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/10_Neymar_kapak.png?token=GHSAT0AAAAAABQVSTSWKEORCPVPEGYGHR44YPF63UA",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/10_Neymar.png?token=GHSAT0AAAAAABQVSTSWOMPA5Z3AMEXZGCHGYPF5M6A",
+"Aciklama": "Brezilya uyruklu 29 yaşındaki Neymar, sol kanat olarak görev yapmakadır. 2017 yılında Barcelona'dan 222M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması toplamda 130 maça çıkmıştır."
+},
+{
+"AdiSoyadi": "Kylian Mbappe",
+"Mevkisi": "Santrafor",
+"FormaNumarasi": "#7",
+"KapakFotoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/11_Mbappe_kapak.png?token=GHSAT0AAAAAABQVSTSWHYJFT4FHBQBO4EZ2YPF63VA",
+"LogoUrl": "https://raw.githubusercontent.com/eyupbunyaminkaya/h5200060eyupbunyaminkaya/main/11_Mbappe.png?token=GHSAT0AAAAAABQVSTSWJIV57ZOAIXEJ7FVAYPF5M7A",
+"Aciklama": "Fransa uyruklu 23 yaşındaki Mbappe, santrafor olarak görev yapmakadır. 2018 yılında Monaco'dan 145M€ bedelle PSG'ye transfer olmuştur. Geldiği günden itibaren PSG forması toplamda 198 maça çıkmıştır."
+}
